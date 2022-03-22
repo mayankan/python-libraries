@@ -1,2 +1,3 @@
 numpy/.idea
+numpy/__pycache__
 .DS_Store
