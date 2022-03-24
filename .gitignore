@@ -1,3 +1,5 @@
 numpy_library/.idea
 numpy_library/__pycache__
+pandas_library/.idea
+pandas_library/__pycache__
 .DS_Store
