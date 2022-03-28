@@ -4,4 +4,5 @@ pandas_library/.idea
 pandas_library/__pycache__
 matplotlib_library/.idea
 matplotlib_library/__pycache__
+.idea
 .DS_Store
